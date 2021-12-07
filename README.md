@@ -1,1 +1,1 @@
-Shows Characters list and basic details using Open Starwars API
+React basic multi page application using Open Starwars API.
